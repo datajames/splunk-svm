@@ -49,6 +49,7 @@ Switching to the my-test-splunk install:
 2. svm rebase - change SPLUNK\_BASE to be the current directory
 3. svm home - changes directory to the SPLUNK\_HOME of the currently selected
    instance.
+
 ### Controlling running splunks
 
 1. svm cmd-all <command> - runs the specified command in the context of each
